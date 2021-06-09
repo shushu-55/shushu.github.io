@@ -1,0 +1,147 @@
+@charset "UTF-8";
+body {
+    /*background: black ;*/
+
+    /*!*font-family: "Arial Black";*!*/
+    /*!*color: orange;*!*/
+    /*color: whitesmoke;*/
+
+}
+
+/*.container{*/
+/*    width: 100%;*/
+/*    max-width: 1200px;*/
+/*    margin-right: auto;*/
+/*    margin-left: auto;*/
+/*}*/
+
+
+li {
+    list-style: none;
+}
+
+header {
+    　height: 80px;
+    　width: 100%;
+    　position: fixed;
+    　top: 0;
+}
+
+.nav-link{
+    margin-left: 100px;
+}
+
+
+.nav-item{
+    margin-right: 30px
+}
+
+h1 {
+/*    font-family: "Arial Black";*/
+/*    margin-left: -100px;*/
+/*    position: absolute;*/
+/*    top: 250px;*/
+/*    !*transform: rotate(90deg);*!*/
+/*    font-size: 80px;*/
+    color: gray;
+}
+
+
+
+
+
+
+/*.btn {*/
+/*    position: relative;*/
+/*    width: 600px;*/
+/*    height: 360px;*/
+/*    margin: 0 auto;*/
+/*    display: block;*/
+/*    border-radius: 12px;*/
+/*    overflow: hidden;*/
+/*    cursor: pointer;*/
+/*}*/
+/*.btn img {*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    left: 50%;*/
+/*    -webkit-transform: translate(-50%, -50%);*/
+/*    transform: translate(-50%, -50%);*/
+/*    width: 100%;*/
+/*    display: block;*/
+/*    -webkit-transition: .4s ease-in-out;*/
+/*    transition: .4s ease-in-out;*/
+/*}*/
+/*.btn:hover img:nth-of-type(2) {*/
+/*    opacity: 0;*/
+/*}*/
+
+h2 {
+    font-family: "Arial Black";
+    /*color: gray;*/
+    /*color: black;*/
+    font-size: 50px;
+}
+
+p{
+    color: gray;
+}
+
+h3{
+    font-size: 50px;
+}
+/*.timeline {*/
+/*    list-style: decimal inside;*/
+/*    !*margin-right: auto;*!*/
+/*}*/
+
+/*.timeline-item {*/
+/*    margin-bottom: 0;*/
+/*    margin-left: -400px;*/
+/*    height: 50px;*/
+
+/*}*/
+
+/*.timeline-title {*/
+/*    font-family: "Arial Black";*/
+/*    font-size: 1.375rem;*/
+/*    display: inline-block;*/
+/*}*/
+
+/*.timeline-content {*/
+/*    !*font-family: ;*!*/
+/*    margin-bottom: 0;*/
+/*}*/
+
+/*@media (min-width: 600px) {*/
+/*    .timeline-item {*/
+/*        display: flex;*/
+/*        margin-bottom: 0;*/
+/*    }*/
+
+/*    .timeline-title {*/
+/*        width: 50%;*/
+/*        padding: 1rem 2.5rem 2rem 0;*/
+/*        text-align: right;*/
+/*    }*/
+
+/*    .timeline-content {*/
+/*        border-left: 3px solid #f8f6f2;*/
+/*        width: 50%;*/
+/*        padding: 1rem 2.5rem 2rem;*/
+/*    }*/
+/*}*/
+
+
+/*section{*/
+/*    float: left;*/
+/*}*/
+
+/*.container{*/
+/*    float: left;*/
+/* text-align: left;*/
+/*}*/
+
+fotter{
+    position: center;
+}
