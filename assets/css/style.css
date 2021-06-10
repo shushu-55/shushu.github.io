@@ -41,7 +41,7 @@ h1 {
     font-family: "Arial Black";
     margin-left: -100px;
     position: absolute;
-    top: 250px;
+    top: 270px;
     transform: rotate(90deg);
     font-size: 80px;
     color: gray;
@@ -49,12 +49,10 @@ h1 {
 
 
 
-
-
 p1 {
-    margin: -150px;
+    margin: -120px;
     position: absolute;
-    top: 400px;
+    top: 430px;
 
     transform: rotate(90deg);
     font-size: 20px;
@@ -90,6 +88,14 @@ h2 {
     color: gray;
     /*color: black;*/
     font-size: 50px;
+}
+
+.wrap {
+    display: flex;
+    flex-flow: column;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    height: 390px;
 }
 
 p{
@@ -149,4 +155,5 @@ p{
 
 fotter{
     position: center;
+    text-align: center;
 }
