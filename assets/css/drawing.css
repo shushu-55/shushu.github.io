@@ -6,37 +6,34 @@ body {
 
 
 header {
-    　height: 80px;
-    　width: 100%;
-    　position: fixed;
-    　top: 0;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
 }
 
 .nav-link{
-    /*margin-left: 100px;*/
+    margin-left: 100px;
+    /*color: aquamarine;*/
 }
-
 
 .nav-item{
-    /*margin-right: 30px*/
+    margin-right: 30px
 }
+
 
 h1 {
     font-family: "Arial Black";
     font-size: 80px;
-    color: gray;
-    /*text-align: center;*/
 }
 
 
 h2 {
-    /*color: gray;*/
     color: gray;
     font-size: 70px;
 }
 
 p {
-    /*position: center;*/
     text-align: left;
     color: gray;
     font-size: 20px;
@@ -46,15 +43,27 @@ h3{
     font-size: 70px;
 }
 
-.wrap p{
-    align-content: center;
-}
-
-.wrap{
-    margin-top: 30px;
-}
-
-
-fotter{
+.wrap koten{
+    text-align: center;
     position: center;
 }
+
+.container{
+    width: 100%;
+    max-width: 1600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+footer{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    background: whitesmoke;
+
+}
+
+
+
+
